@@ -1,2 +1,4 @@
-# ETL_Project2_CB
-CWRU Bootcamp Project 2 -- ETL
+# ETL-Project
+
+Navigate to the following page for project summary/information.
+https://chunwong7.github.io/ETL-Project/
